@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>hello-world   //在此处添加你的标题。</title>
+      <title>hello-world</title>
       <link href="/2020/05/16/hello-world/"/>
       <url>/2020/05/16/hello-world/</url>
       
@@ -13,7 +13,7 @@
       
       <categories>
           
-          <category> Code   //在此处输入这篇文章的分类。 </category>
+          <category> Code </category>
           
       </categories>
       
