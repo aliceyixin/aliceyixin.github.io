@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Notes on reed quality evaluation of single reed instrument</title>
+      <link href="/2020/06/08/Notes-on-reed-quality-evaluation-of-single-reed-instrument/"/>
+      <url>/2020/06/08/Notes-on-reed-quality-evaluation-of-single-reed-instrument/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h2><p>The musical quality of woodwind instruments such as clarinet or saxophone depends strongly on the reed quality. </p><p>Using our own experience of musician, we consider that <strong>30%</strong>  of reeds in a box are good reeds, whereas <strong>40%</strong> are mean quality reeds and <strong>30%</strong>  are considered as bad.<br>Moreover, we assume that great differences in the subjective<br>quality perceived by the musician remain constant over long time periods (few months), such tha extreme values of quality does not change over time (very bad reeds remain very bad and very good reeds remain very good).</p><h2 id="Methods"><a href="#Methods" class="headerlink" title="Methods"></a>Methods</h2><p><img src="https://github.com/aliceyixin/blogImages/blob/master/2020-06-08-21-17-14.png?raw=true" alt=""></p><p>This paper consists THREE types of measurement of reeds:</p><ol><li>Subjective characterization</li><li>Mechanical paramenters (in vitro)</li><li>Playing parameters (in vivo)</li></ol><h3 id="1-Subjective-characterization"><a href="#1-Subjective-characterization" class="headerlink" title="1. Subjective characterization"></a>1. Subjective characterization</h3><p><strong>Experiment Testbed:</strong></p><ul><li><strong>12 reeds</strong> for tenor saxophone of the same brand, same cut and same strengths have been considered</li><li>Reference 54 Selmer saxophone </li><li>Vandoren V16 T8 mouthpiece</li><li>** The musician was asked to play each reed and to assess each descriptor on a 5-levels structured rating scale (from 1: low score to 5: high score). **</li><li>Each reed was repeated <strong>three times</strong> and the average value of each descriptor was calculated from the three evaluations. </li><li>The reeds were presented in a random order. </li><li>The musician was also asked to play a given musical phrase, which was recorded. The musical phrase used for the test is a descending arpeggio of 7 notes (C5 523.3 Hz, G4 392 Hz, Eb4 311.1 Hz, C4 261.6 Hz, G3 196 Hz, Eb3 155.6 Hz, C3 130.8 Hz). </li><li>For each reed, <strong>the arpeggio has been played five times</strong> (5 repetitions) in order to estimate the average and the standard deviation of the different objective parameters.</li></ul><p><strong>Descriptors:</strong></p><p><img src="https://github.com/aliceyixin/blogImages/blob/master/2020-06-08-21-25-35.png?raw=true" alt=""></p><h3 id="2-Mechanical-paramenters-in-vitro"><a href="#2-Mechanical-paramenters-in-vitro" class="headerlink" title="2. Mechanical paramenters (in vitro)"></a>2. Mechanical paramenters (in vitro)</h3><p><strong>Experiment Testbed:</strong></p><ul><li>(static) pressure Pm</li><li>The mouth pressure is measured using a differential pressure sensor Endevco 8507-C2</li><li>The acoustic pressure is measured using a 1/4 inch<br>microphone (B&amp;K 4135) placed in front of the saxophone bell</li><li>The signals are connected to<br>an acquisition board National instruments BNC-2110 using a sampling frequency Fs = 50 kHz</li></ul><p><strong>Descriptors:</strong></p><ul><li>Mouth pressure (hPa)</li><li>Acoustic pressure (Pa)</li></ul><p><strong>Feature extraction: (stationary part)</strong><br>• Harmonic Spectral Centroid (HSC)<br>• Odd Harmonic Spectral Centroid (OHSC)<br>• Even Harmonic Spectral Centroid (EHSC)<br>• Odd/Even Ratio (OER)<br>• Tristimulus, 1st coefficient (TR1)<br>• Tristimulus, 2nd coefficient (TR2)<br>• Tristimulus, 3rd coefficient (TR3)<br>• High Frequency Components (HFC4)<br>• Mean Mouth Pressure (MMP)</p><h3 id="3-Playing-parameters-in-vivo"><a href="#3-Playing-parameters-in-vivo" class="headerlink" title="3. Playing parameters (in vivo)"></a>3. Playing parameters (in vivo)</h3><p><strong>Experiment Testbed:</strong></p><p><img src="https://github.com/aliceyixin/blogImages/blob/master/2020-06-08-21-58-07.png?raw=true" alt=""></p><ul><li>The acoustic pressure exciting the reed p is measured using a 1/8 inch microphone (B &amp; K 4138) at 5 mm from the tip of the mouthpiece</li><li>The reed displacement y is<br>measured using an optical sensor (Philtec RC 25) having a measuring area of about 1 x 4 mm</li><li>the response of the reed is characterized by measuring the Frequency Response Function displacement<br>over acoustic pressure at the middle of the reed (in the transverse direction) and at 2 mm from the tip</li><li>Measurements were performed with the force sensor (FSR) always placed between the reed<br>and the lip and the lip pressure (force) was always set on the same value. </li></ul><p><strong>Descriptors:</strong></p><ul><li>stiffness</li><li>quality factor</li><li>mass</li></ul><!-- **Feature extraction:** --><!-- ![](2020-06-08-22-07-31.png) --><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference:"></a>Reference:</h2><ul><li>Gazengel, Bruno &amp; Petiot, Jean-François. (2013). Objective and subjective characterization of saxophone reeds. </li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Music Technology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Music Technology </tag>
+            
+            <tag> Experiments </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SCI Journal List on Music Technology</title>
       <link href="/2020/05/28/SCI-Journal-List-on-Music-Technology/"/>
       <url>/2020/05/28/SCI-Journal-List-on-Music-Technology/</url>
