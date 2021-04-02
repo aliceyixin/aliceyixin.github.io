@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yixin Wang</title>
+  
+  
+  <link href="https://alice_yixin.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://alice_yixin.github.io/"/>
+  <updated>2021-04-02T13:54:01.183Z</updated>
+  <id>https://alice_yixin.github.io/</id>
+  
+  <author>
+    <name>Yixin WANG</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://alice_yixin.github.io/2021/04/02/about/"/>
+    <id>https://alice_yixin.github.io/2021/04/02/about/</id>
+    <published>2021-04-02T12:27:49.000Z</published>
+    <updated>2021-04-02T13:54:01.183Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Biography"><a href="#Biography" class="headerlink" title="Biography"></a>Biography</h2><p>Yixin Wang is now a Ph.D. student with Prof. Xiaohong Guan (academician of China Scientific Academy) at Xi’an Jiaotong University (XJTU). Her research interests include music information retrieval, music acoustics and machine learning.</p><h2 id="Education"><a href="#Education" class="headerlink" title="Education"></a>Education</h2><ul><li>2020-Present PhD Student, Xi’an Jiaotong University, China.<br>Major: Control Science and Engineering, Advisor: Xiaohong Guan</li><li>2017~2020 M.S. Xi’an Jiaotong University, China.<br>Major: Control Science and Engineering, Advisor: Xiaohong Guan</li><li>2015~2017 Engineer CentraleSupelec, France</li><li>2013~2017 B.S. Automation, Xi’an Jiaotong University, China.</li></ul><h2 id="Experience"><a href="#Experience" class="headerlink" title="Experience"></a>Experience</h2><ul><li>2018-Present Research Assistant, MOE Key Lab For Intelligent Networks and Network Security, Xi’an Jiaotong University.</li><li>2019.07-2019.09 Research Assistant, ATLAS OpenData Group, CERN.</li><li>2017.09-2018.01 Teaching Asistant, Linear algebra and analytic geometry, School of Mathematics and Statistics, Xi’an Jiaotong University.</li></ul><h2 id="Reaserch-Interests"><a href="#Reaserch-Interests" class="headerlink" title="Reaserch Interests"></a>Reaserch Interests</h2><ul><li>Musical tone quality assessment</li><li>Voice quality evaluation</li><li>Music information retrieval</li><li>Music acoustics</li></ul><h2 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h2><ul><li><strong>Harmonics Based Representation in Clarinet Tone Quality Evaluation</strong><br><strong>Y. Wang</strong>, X. Guan, Y. Du and N. Nan<br>Published in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020. (CCF B)<br><a href="/downloads/clarinet_ICASSP2020.pdf">PDF</a></li></ul><!-- ## Contact Informationalice_yixin.wang@outlook.com / yxwang@sei.xjtu.edu.cnNo. 28, West Xianning Road, Xi’an, China -->]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Biography&quot;&gt;&lt;a href=&quot;#Biography&quot; class=&quot;headerlink&quot; title=&quot;Biography&quot;&gt;&lt;/a&gt;Biography&lt;/h2&gt;&lt;p&gt;Yixin Wang is now a Ph.D. student with Pro</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://alice_yixin.github.io/2021/04/02/hello-world/"/>
+    <id>https://alice_yixin.github.io/2021/04/02/hello-world/</id>
+    <published>2021-04-02T12:06:44.568Z</published>
+    <updated>2021-04-02T14:23:37.603Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>一、关于搭建的流程1. 创建仓库，<a href="http://crazymilk.github.io;2/">http://CrazyMilk.github.io；2</a>. 创建两个分支：master 与 hexo；3. 设置hexo为默认分支（因为我们只需要手动管理这个分支上的Hexo网站文件）；4. 使用git clone <a href="mailto:&#103;&#105;&#x74;&#x40;&#x67;&#105;&#116;&#x68;&#117;&#x62;&#46;&#x63;&#111;&#x6d;">&#103;&#105;&#x74;&#x40;&#x67;&#105;&#116;&#x68;&#117;&#x62;&#46;&#x63;&#111;&#x6d;</a>:CrazyMilk/CrazyMilk.github.io.git拷贝仓库；5. 在本地<a href="http://crazymilk.github.io文件夹下通过git/">http://CrazyMilk.github.io文件夹下通过Git</a> bash依次执行npm install hexo、hexo init、npm install 和 npm install hexo-deployer-git（此时当前分支应显示为hexo）;6. 修改_config.yml中的deploy参数，分支应为master；7. 依次执行git add .、git commit -m “…”、git push origin hexo提交网站相关的文件；8. 执行hexo g -d生成网站并部署到GitHub上。这样一来，在GitHub上的<a href="http://crazymilk.github.io仓库就有两个分支,一个hexo分支用来存放网站的原始文件,一个master分支用来存放生成的静态网页.完美/">http://CrazyMilk.github.io仓库就有两个分支，一个hexo分支用来存放网站的原始文件，一个master分支用来存放生成的静态网页。完美</a>( •̀ ω •́ )y！</p><p>二、关于日常的改动流程在本地对博客进行修改（添加新博文、修改样式等等）后，通过下面的流程进行管理。</p><ol><li>依次执行git add .、git commit -m “…”、git push origin hexo指令将改动推送到GitHub（此时当前分支应为hexo）；</li><li>然后才执行hexo g -d发布网站到master分支上。虽然两个过程顺序调转一般不会有问题，不过逻辑上这样的顺序是绝对没问题的（例如突然死机要重装了，悲催….的情况，调转顺序就有问题了）。</li></ol><p>三、本地资料丢失后的流程当重装电脑之后，或者想在其他电脑上修改博客，可以使用下列步骤：</p><ol><li>使用git clone <a href="mailto:&#x67;&#105;&#116;&#64;&#x67;&#105;&#x74;&#x68;&#x75;&#x62;&#46;&#x63;&#111;&#x6d;">&#x67;&#105;&#116;&#64;&#x67;&#105;&#x74;&#x68;&#x75;&#x62;&#46;&#x63;&#111;&#x6d;</a>:CrazyMilk/CrazyMilk.github.io.git拷贝仓库（默认分支为hexo）；</li><li>在本地新拷贝的<a href="http://crazymilk.github.io文件夹下通过git/">http://CrazyMilk.github.io文件夹下通过Git</a> bash依次执行下列指令：npm install hexo、npm install、npm install hexo-deployer-git（记得，不需要hexo init这条指令）。</li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
